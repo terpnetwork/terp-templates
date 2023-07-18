@@ -30,7 +30,7 @@ Now, use it to create your new contract.
 Go to the folder in which you want to place it and run:
 
 ```sh
-cargo generate --git terpnetwork/terp-templates.git --name PROJECT_NAME default
+cargo generate --git https://github.com/terpnetwork/terp-templates.git --name PROJECT_NAME default
 ```
 
 You will now have a new folder called `PROJECT_NAME` (I hope you changed that to something else)
